@@ -1,0 +1,10 @@
+Mise en place des clusters Hadoop :
+1-	Mise en place d’un cluster (from scratch) :
+	Installation et configuration et test de Hadoop et console Oozie
+	Configuration et exploration du namenode/ datanode
+	Configuration et test et exploitation de Hue. console Oozie et inspection du processus
+
+2-	Mise en place d’un cluster Cloudera sous CentOS :
+		Mettre en place un outil de gestion de cluster
+		Exécuter une application YARN sur le cluster
+		Configuration des paramètres d'exécution de l’outil de gestion
